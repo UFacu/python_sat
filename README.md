@@ -1,5 +1,7 @@
 En este análisis, exploraremos un emocionante conjunto de datos que contiene información detallada sobre jugadores del popular videojuego FIFA.
 
+Link de la base de datos: https://www.kaggle.com/code/monessaeed/fifa-players/notebook
+
 Este conjunto de datos proporciona una gran cantidad de información sobre las habilidades y características de los jugadores, como velocidad, precisión de tiro, habilidades técnicas y más. Con esta información, podemos obtener una visión profunda de los jugadores y descubrir patrones, tendencias y relaciones interesantes.
 
 Utilizando técnicas de análisis de datos y visualización, nos sumergiremos en el conjunto de datos para extraer información valiosa. Exploraremos gráficos que representan la relación entre diferentes variables, como la edad y la puntuación, la nacionalidad y la puntuación, entre otros.
